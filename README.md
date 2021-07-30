@@ -1,2 +1,3 @@
-# funcoes sintaxe
- 
+# Funções Sintaxe
+
+exercícios aula
